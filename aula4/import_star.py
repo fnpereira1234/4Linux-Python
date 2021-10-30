@@ -9,7 +9,7 @@ if randint.__module__ == 'random':
     print("vem do random")
 
 print("antes do sleep")
-time.sleep(1)
+time.sleep(5)
 print("depois do sleep")
 
 import ex_cadeiras

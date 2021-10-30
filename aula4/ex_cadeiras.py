@@ -15,7 +15,7 @@ def criar_participantes(num_participantes):
     participantes = []
 
     for num in range(num_participantes):
-        participantes.append(f"Participante-{num}")
+        participantes.append(f"Participante {num}")
 
     return participantes
 

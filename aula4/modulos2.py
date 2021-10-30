@@ -2,7 +2,7 @@ import datetime
 
 agora = datetime.datetime.now()
 print(agora)
-data_nasc = datetime.datetime(1992, 4, 4, 9, 47, 0)
+data_nasc = datetime.datetime(1980, 3, 20)
 
 delta = agora - data_nasc
 
